@@ -1,0 +1,29 @@
+{
+	"imageURL":"../img/player.png",
+	
+	"frames":[
+		{
+			"name":"player",
+			"rect":[0,0,50,50]
+		},
+		{
+			"name":"run-1",
+			"rect":[51,0,50,50]
+		},
+		{
+			"name":"run-2",
+			"rect":[101,0,50,50]
+		},
+		{
+			"name":"break",
+			"rect":[151,0,50,50]
+		},
+		{
+			"name":"jump",
+			"rect":[201,0,50,50]
+		}
+	]
+
+	
+}
+
